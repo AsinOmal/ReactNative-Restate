@@ -55,7 +55,7 @@ Make sure you have:
 #### 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/react_native-restate.git
+git clone https://github.com/AsinOmal/ReactNative-Restate.git)
 cd react_native-restate
 ```
 
